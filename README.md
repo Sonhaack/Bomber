@@ -6,6 +6,8 @@ Jeg har haft lidt problemer med github pga af deres ændringer fra master til ma
 
 Tjek derfor master branch
 
+Alternativt har jeg vedhæftet link til projektet. 
+
 LINKS:
 
 Spillet kan hentes her:
