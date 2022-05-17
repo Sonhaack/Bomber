@@ -12,3 +12,10 @@ https://drive.google.com/file/d/1zD_2GcH64ZFJTVDFWA2Xihv-WtreG8DU/view?usp=shari
 
 Youtube video: 
 https://youtu.be/Wnc_tjqv28Q
+
+Inspiration:
+brackeys:
+https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
+
+Zenva:
+https://academy.zenva.com/lesson/moving-the-enemy-part-1/
