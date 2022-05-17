@@ -2,6 +2,10 @@
 GMD
 
 
+Jeg har haft lidt problemer med github pga af deres ændringer fra master til main. 
+
+Tjek derfor master branch
+
 LINKS:
 
 Spillet kan hentes her:
